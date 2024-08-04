@@ -13,6 +13,9 @@ I'm a seasoned Frontend Developer with 8 years of expertise in creating responsi
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: `undefined`
 
+| ![Hemlata's github stats](https://github-readme-stats.vercel.app/api?username=hemlata-khandal&show_icons=true&theme=buefy&count_private=true&hide=contribs&include_all_commits=true&hide_border=true) | ![Hemlata's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemlata-khandal&layout=compact&theme=buefy&hide_border=true) |
+| ------------- | ------------- |
+
 ### Connect With me:
 
 <a href="https://hemlata-khandal.web.app/">
@@ -28,3 +31,4 @@ I'm a seasoned Frontend Developer with 8 years of expertise in creating responsi
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 ## Thank you for visiting my profile today!
+
